@@ -1,4 +1,4 @@
-Vexy are fully undetectable, the only detections are the fault of pyinstallerto 
+Vexy are fully undetectable, THIS LOGGER WILL GRAB THE VICTIMS EXODUS INFORMATION, AND ALL OTHER THINGS.
 
 VexyLogger was made with Love ❌ code ✅
 
