@@ -6,7 +6,7 @@ VexyLogger was created for purely cultural and educational purposes in order to 
 
 NOTE:
 
-Vexy was made for educational purposes, there for all consequences caused by your actions are your responsibility and accountability. You got an error? you've find a bug? join the discord or create a ticket! 🌐 〢 Content 🌌・Discord 🎉・Setting up Onyx 🔰・Features 👁️・Features Explanation 📝・Changelog 🦜・Injection 💼・Term 📁 〢 Setting up Onyx Install Python Complete the configuration You have your .exe file enjoy :) If there are any issues please join the Discord 🔰 〢 Features 💎 = Premium Features Join the discord to buy
+Vexy was made for educational purposes, there for all consequences caused by your actions are your responsibility and accountability. You got an error? you've find a bug? join the discord or create a ticket! 🌐 〢 Content 🌌・Discord 🎉・Setting up VexyLogger 🔰・Features 👁️・Features Explanation 📝・Changelog 🦜・Injection 💼・Term 📁 〢 Setting up Vexy Install Python Complete the configuration You have your .exe file enjoy :) If there are any issues please join the Discord 🔰 〢 Features 💎 = Premium Features Join the discord to buy
 
 Default:
 
